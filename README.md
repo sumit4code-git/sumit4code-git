@@ -22,5 +22,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="80">
   <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="90">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+    <img src="https://www.groupe-asten.fr/wp-content/uploads/2020/06/logo-jira.gif" width="100">
+    
   <p>
 </div> 
