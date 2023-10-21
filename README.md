@@ -6,7 +6,7 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 💼 &nbsp; Currently working on Full Stack Development projects.
+  - 💼 &nbsp; Worked on multiple Full Stack Development projects.
   - 🌱 &nbsp; Working on high scale Native Android Projects.
   - ✍️ &nbsp; Android + KMM.
   - 🎓 &nbsp; Completed Computer Science and Engineering.
