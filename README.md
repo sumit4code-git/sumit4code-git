@@ -6,10 +6,10 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
   - 💼 &nbsp; Currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning core insights of Native Android Devlopment.
-  - ✍️ &nbsp; Keen Competitive Programmer.
+  - 🌱 &nbsp; Working on high scale Native Android Projects.
+  - ✍️ &nbsp; Android + KMM.
+  - 🎓 &nbsp; Completed Computer Science and Engineering.
 </div> 
 </div>
 
